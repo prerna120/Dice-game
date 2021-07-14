@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(51, 50, 50);
+    color: rgb(14, 189, 145);
+    text-align: center;
+}
+
+h1{
+    font-family: 'Lemon', cursive;
+    font-size: 8rem;
+}
+
+div{
+    margin: 2% 5%;
+}
+
+.player{
+    display: inline-block;
+}
+
+h2{
+    font-size: 3rem;
+    margin-bottom: 7%;
+    font-family: 'Happy Monkey', cursive;
+}
+
+h4{
+    color: white;
+    margin-bottom: 3%;
+}
+
+/* Classes for javascript */
+
